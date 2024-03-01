@@ -53,8 +53,6 @@
 </div>
 
 ###
-
-
 <img src="https://raw.githubusercontent.com/Farid023/Farid023/output/snake.svg" alt="Snake animation" />
 
 ###
