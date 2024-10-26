@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@farid023)
 
-- 📫 How to reach me **gurbanoff.farid@gmail.com**
+- 📫 How to reach me **gurfdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
