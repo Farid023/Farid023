@@ -1,7 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Farid Gurbanov</h1>
-<h3 align="center">I'm an Android developer passionate about creating user-friendly and efficient mobile apps.</h3>
+<h3 align="center">I'm a Mobile Developer passionate about creating user-friendly and efficient mobile apps.</h3>
+
+<p align="center">Skilled in both native Android development and Flutter, I focus on delivering seamless experiences across platforms.</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farid023&label=Profile%20views&color=0e75b6&style=flat" alt="farid023" /> </p>
 
